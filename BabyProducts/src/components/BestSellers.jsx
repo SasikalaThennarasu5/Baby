@@ -1,7 +1,7 @@
 import React from "react";
 import ProductCard from "../components/ProductCard";
 import diaper1 from "../assets/images/Img-card-col.png";
-import diaper2 from "../assets/images/boy1.png";
+import diaper2 from "../assets/images/Boy1.png";
 import diaper3 from "../assets/images/girl1.png";
 
 const products = [
