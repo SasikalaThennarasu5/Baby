@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import ProductCard from "../components/ProductCard";
-import diaper1 from "../assets/images/Girl1.png";
-import diaper2 from "../assets/images/Girl2.png";
-import diaper3 from "../assets/images/Girl3.png";
-import diaper4 from "../assets/images/Girl4.png";
-import diaper5 from "../assets/images/Girl5.png";
-import diaper6 from "../assets/images/Girl6.png";
+import diaper1 from "../assets/images/girl1.png";
+import diaper2 from "../assets/images/girl2.png";
+import diaper3 from "../assets/images/girl3.png";
+import diaper4 from "../assets/images/girl4.png";
+import diaper5 from "../assets/images/girl5.png";
+import diaper6 from "../assets/images/girl6.png";
 
 
 
