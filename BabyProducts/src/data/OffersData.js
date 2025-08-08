@@ -1,6 +1,6 @@
 // src/data/products.js
 import img1 from "../assets/images/pamper1.png";
-import img2 from "../assets/images/boy1.png";
+import img2 from "../assets/images/Boy1.png";
 import img3 from "../assets/images/girl1.png";
 import img4 from "../assets/images/dravos.png";
 import img5 from "../assets/images/feeding1.png";
