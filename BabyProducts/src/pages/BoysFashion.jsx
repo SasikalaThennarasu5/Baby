@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import ProductCard from "../components/ProductCard";
-import diaper1 from "../assets/images/boy1.png";
+import diaper1 from "../assets/images/Boy1.png";
 import diaper2 from "../assets/images/boy2.png";
 import diaper3 from "../assets/images/boy3.png";
 import diaper4 from "../assets/images/boy4.png";
