@@ -7,7 +7,7 @@ import GirlsFashionData from "../data/GirlsFashionData";
 import SoapsData from "../data/SoapsData";
 import StrollersData from "../data/StrollersData";
 import BottlesData from "../data/BottlesData";
-import BoysFashionData from "../data/BoysFashionData";
+import BoysFashionData from "../data/boysFashionData";
 import deliveryIcon from "../assets/images/delivery.png";
 import returnIcon from "../assets/images/return.png";
 import { CartContext } from "../context/CartContext";
