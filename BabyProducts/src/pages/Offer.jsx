@@ -4,7 +4,7 @@ import diaper1 from "../assets/images/pamper1.png";
 import diaper2 from "../assets/images/boy2.png";
 import diaper3 from "../assets/images/girl3.png";
 import diaper4 from "../assets/images/soap4.png";
-import diaper5 from "../assets/images/Lavern.png";
+import diaper5 from "../assets/images/lavern.png";
 import diaper6 from "../assets/images/feeding6.png";
 
 
